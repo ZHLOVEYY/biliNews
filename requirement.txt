@@ -1,0 +1,7 @@
+fastapi
+aiohttp
+pydantic-settings
+aioredis
+langchain-openai
+redis
+
